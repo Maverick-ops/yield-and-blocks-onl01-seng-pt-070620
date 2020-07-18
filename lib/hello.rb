@@ -14,7 +14,7 @@ i = i + 1
  end
  array
  else 
-   puts "fails gracefully when a block is not passed in"
+   puts "Hey! No block was given!
 end
 end
 
