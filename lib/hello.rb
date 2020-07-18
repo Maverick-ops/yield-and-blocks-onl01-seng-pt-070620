@@ -15,6 +15,6 @@ i = i + 1
  else 
    puts "fails gracefully when a block is not passed in"
 end
-end 
+
 
 # call your method here!
